@@ -1,0 +1,9 @@
+{
+  "id": "c9ide",
+  "comment": "c9ide User",
+  "ssh_keys": [
+    ""
+  ],
+  "home": "/home/c9ide",
+  "ssh_keygen": false
+}
