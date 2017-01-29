@@ -6,3 +6,7 @@
 
 include_recipe 'c9_ide::update'
 include_recipe 'user::data_bag'
+include_recipe 'c9_ide::motd'
+include_recipe 'c9_ide::packages'
+include_recipe 'c9_ide::cloud9ide'
+include_recipe 'c9_ide::supervisor'
